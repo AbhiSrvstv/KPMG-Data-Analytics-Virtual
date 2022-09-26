@@ -30,3 +30,5 @@ Prepared PowerPoint presentation includes a detailed approach for our strategy b
 Final task:
 Developed a dashboard that we can present to the client at our next meeting. Displayed our data summary and results of the analysis in the dashboard.  
 
+The following are the details of the analysis done on the dataset.
+![image](https://user-images.githubusercontent.com/93547700/192209285-2dc04e25-bbf4-45dd-b293-7800b49c0cee.png)
