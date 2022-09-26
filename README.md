@@ -14,7 +14,7 @@ Customer Addresses
 Transactions data in the past 3 months 
 
 First Task : 
-Draft an email to the client identifying the data quality issues and strategies to mitigate these issues. Refer to ‘Data Quality Framework Table’ and resources below for criteria and dimensions which you should consider.
+Drafted an email to the client identifying the data quality issues and strategies to mitigate these issues.
 
 Second Task :
 For context, Sprocket Central Pty Ltd is a long-standing KPMG client whom specialises in high-quality bikes and accessible cycling accessories to riders. Their marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour. 
